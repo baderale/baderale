@@ -5,7 +5,7 @@ Healthcare (RN) | IT | Engineer
 -------------------------------
 
 *   🌍  I'm based in Florida
-*   ✉️  You can contact me at [bader.ale@fiu.edu](mailto:bader.ale@fiu.edu)
+*   ✉️  You can contact me at [bader53.ale@gmail.com](mailto:bader53.ale@gmail.com)
 *   🧠  I'm learning Tableau, PowerBI, Python and more!
 *   🤝  I'm open to collaborating on healthcare data projects!
 <a href="https://www.github.com/baderale" target="_blank" rel="noreferrer"><img
