@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bader Ale
 =================================================================================================================================
 
-Healthcare (RN) | IT | Engineer
+Mechanical Engineer | AI Specialist | Coder/Developer
 -------------------------------
 
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [bader53.ale@gmail.com](mailto:bader53.ale@gmail.com)
-*   🧠  I'm learning Tableau, PowerBI, Python and more!
-*   🤝  I'm open to collaborating on healthcare data projects!
+*   🧠  I'm a freelance AI Specialist 
+*   🤝  I'm open to any projects!
 <a href="https://www.github.com/baderale" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/baderale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
