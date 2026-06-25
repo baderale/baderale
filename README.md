@@ -1,37 +1,42 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bader Ale
-=================================================================================================================================
+<h1 align="center">Bader Ale</h1>
 
-Mechanical Engineer | AI Specialist | Coder/Developer
--------------------------------
-
-*   🌍  I'm based in Florida
-*   ✉️  You can contact me at [bader53.ale@gmail.com](mailto:bader53.ale@gmail.com)
-*   🧠  I'm a freelance AI Specialist 
-*   🤝  I'm open to any projects!
-<a href="https://www.github.com/baderale" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/baderale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<p align="center">
+  <strong>Applied AI Engineer</strong> · LLM Systems · Agentic &amp; RAG Architectures · Local-Model Infrastructure · Quantitative ML
 </p>
-                    
 
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/baderale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/baderale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/bale53" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/baderale"><img src="https://img.shields.io/badge/LinkedIn-baderale-0a66c2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://taxentia.ai"><img src="https://img.shields.io/badge/Live%20Product-taxentia.ai-16a34a" /></a>
+  <a href="mailto:bader53.ale@gmail.com"><img src="https://img.shields.io/badge/Email-bader53.ale%40gmail.com-555" /></a>
+  <img src="https://img.shields.io/github/followers/baderale?logo=github&label=Follow&color=0891b2&labelColor=1c1917&style=flat" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+I build and ship **production LLM systems end-to-end** — agentic orchestration, retrieval-augmented generation, and self-hosted open-model infrastructure — and I pair them with **quantitative modeling** (Markov chains, Monte Carlo, Bayesian inference, portfolio optimization). I run quantized open models **locally** (Ollama / Hermes-3, GGUF, VRAM-budgeted inference) and build the reasoning, retrieval, and evaluation layers around them.
 
-<a href="http://www.github.com/baderale"><img src="https://github-readme-stats.vercel.app/api?username=baderale&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baderale's GitHub stats" /></a>
+Background: B.S. Mechanical Engineering + M.S. Engineering Management (FIU), robotics, and a decade of multi-domain engineering. **Expert Python.** Bilingual (EN/ES).
 
-<a href="http://www.github.com/baderale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baderale&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+> 🔭 **Currently going deeper:** transformer internals & attention mechanics · parameter-efficient fine-tuning (LoRA) · preference alignment (DPO/RLHF) — moving from applied AI toward post-training research.
 
-<a href="http://www.github.com/baderale"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=baderale&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🛠️ Stack
 
-<a href="https://github.com/baderale" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderale&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+`Python` · `PyTorch` · `scikit-learn` · `XGBoost` · `PyMC` · `cvxpy` · `TypeScript` · `SQL` · `Ollama / llama.cpp (GGUF)` · `Docker` · `GitHub Actions / CI-CD` · `Pinecone / pgvector` · `AWS`
+
+### 📌 Selected work (pinned)
+
+| Project | What it is |
+|---|---|
+| **[Markov-Wheel](https://github.com/baderale/Markov-Wheel)** | Quantitative options scanner — a **4-state Markov regime chain**, a **5,000-path Monte Carlo (GBM)** assignment simulator, and **Black-Scholes** pricing (Greeks, POP, Kelly sizing) must all agree before a trade is recommended. Expected Value is the gatekeeper. |
+| **[hermes-meta-math](https://github.com/baderale/hermes-meta-math)** | Fully **local** decision engine: a **swarm of LLM personas** (Ollama/Hermes-3, GPU-resident in 6 GB VRAM) feeds a **hierarchical Bayesian conjoint (PyMC)**; outputs optimized with **Markowitz mean-variance (cvxpy)** + **particle-swarm**. Agentic tool-calling intake across 3 Docker services. |
+| **[Taxentia-AI](https://github.com/baderale/Taxentia-AI)** ⭐ | **Shipped** RAG SaaS (live at [taxentia.ai](https://taxentia.ai)) — embeddings + Pinecone over a regulated corpus, automated long-form generation, ETL, tiered auth, Docker + CI/CD. |
+| **[Axon-Health](https://github.com/baderale/Axon-Health)** | AI-native medical-tech platform — federated services with two-tier HIPAA/compliance gatekeepers on a NATS message bus (prototype). |
+| **[Heart-Failure-Prediction](https://github.com/baderale/Heart-Failure-Prediction)** | Clinical ML — classification on 12 features for mortality-event prediction, ROC/AUC evaluation. |
+| **[Miami-Housing](https://github.com/baderale/Miami-Housing)** | Regression ML — feature engineering + gradient boosting for price prediction. |
+
+---
+
+<p align="center">
+  <a href="https://github.com/baderale"><img height="165" src="https://github-readme-stats.vercel.app/api?username=baderale&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+  <a href="https://github.com/baderale"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderale&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&exclude_repo=WGU_MSDA" /></a>
+</p>
