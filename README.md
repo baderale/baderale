@@ -15,7 +15,7 @@
 
 I build and ship **production LLM systems end-to-end** — agentic orchestration, retrieval-augmented generation, and self-hosted open-model infrastructure — and I pair them with **quantitative modeling** (Markov chains, Monte Carlo, Bayesian inference, portfolio optimization). I run quantized open models **locally** (Ollama / Hermes-3, GGUF, VRAM-budgeted inference) and build the reasoning, retrieval, and evaluation layers around them.
 
-Background: B.S. Mechanical Engineering + M.S. Engineering Management (FIU), robotics, and a decade of multi-domain engineering. **Expert Python.** Bilingual (EN/ES).
+My core strength is **problem decomposition** — taking an ambiguous goal, defining a process, and orchestrating tools and AI to build a working, shipped system. Background: B.S. Mechanical Engineering + M.S. Engineering Management (FIU), robotics, and a decade of multi-domain engineering. Bilingual (EN/ES).
 
 > 🔭 **Currently going deeper:** transformer internals & attention mechanics · parameter-efficient fine-tuning (LoRA) · preference alignment (DPO/RLHF) — moving from applied AI toward post-training research.
 
